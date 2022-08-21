@@ -1,0 +1,194 @@
+:root {
+	--font-size: 17px;
+}
+h2 {
+    --font-size: 1.3rem;
+    --typography-spacing-vertical: 2.25rem;
+}
+
+body {
+	min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+h1 {
+	font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 56px;
+    text-transform: none;
+    letter-spacing: -2px;
+    color: #505050;
+    white-space: nowrap;
+}
+@media only screen and (prefers-color-scheme: dark) {
+    h1 {
+        color:#fff;
+    }
+}
+h1 span {
+    font-size: 70px;
+    vertical-align: middle;
+}
+h1 span:first-child {
+    letter-spacing: -14px;
+}
+h1 span:nth-child(2) {
+    position: relative;
+    letter-spacing: -15px;
+    z-index: 1;
+}
+h1 span:nth-child(3) {
+    color: #c39f76;
+    filter: blur(2px);
+}
+h1 span:nth-child(2):before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    height: 28px;
+    border-left: 1.5px solid var(--background-color);
+    border-top: 1.5px solid var(--background-color);
+    width: 44px;
+    left: 2px;
+    border-top-left-radius: 41px 24px;
+}
+h1 span:nth-child(2):after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 4.5px;
+    height: 37px;
+    border-left: 1.5px solid var(--background-color);
+    z-index: 5;
+}
+body header h1 + p {
+	text-indent: 130px;
+    margin-top: -22px;
+    font-size: 15px;
+}
+body header > * {
+    margin: 5px;
+}
+body>footer, body>header, body>main {
+	padding: 0;
+}
+body header,
+body footer {
+	text-align: center;
+	margin-bottom: 5px;
+}
+main {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(280px,1fr));
+    grid-gap: 20px;
+    margin: 0 0 var(--block-spacing-vertical);
+}
+nav {
+    padding: 0 var(--spacing);
+}
+nav ul:first-child {
+    margin: 0 auto 20px;
+    gap: 15px;
+}
+@media (max-width: 540px) {
+    nav ul:first-child {
+        gap: 0;
+        flex-wrap: wrap;
+    }
+    nav ul li {
+        flex-basis: 50%;
+    }
+}
+nav li {
+    padding: 0;
+}
+nav ul label {
+    cursor: pointer;
+    padding: calc(var(--spacing) * .5);
+    border-radius: 5px;
+}
+nav li label img {
+    border-radius: 50%;
+}
+.hide {
+    visibility: hidden;
+    pointer-events: none;
+    position: absolute;
+    z-index: -9999;
+}
+
+#all:checked ~ nav [for=all] {
+    background-color: var(--primary-focus);
+}
+#freecodecamp:checked ~ nav [for=freecodecamp] {
+    background-color: var(--primary-focus);
+}
+#css-tricks:checked ~ nav [for=css-tricks] {
+    background-color: var(--primary-focus);
+}
+#dev:checked ~ nav [for=dev] {
+    background-color: var(--primary-focus);
+}
+#verpex:checked ~ nav [for=verpex] {
+    background-color: var(--primary-focus);
+}
+
+#freecodecamp:checked ~ main article:not([data-type=freecodecamp]){
+    display: none;
+}
+#css-tricks:checked ~ main article:not([data-type=css-tricks]){
+    display: none;
+}
+#dev:checked ~ main article:not([data-type=dev]){
+    display: none;
+}
+#verpex:checked ~ main article:not([data-type=verpex]){
+    display: none;
+}
+
+main article {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+main article div {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+main article div h2 {
+    margin: 0;
+}
+main article img.featured {
+    aspect-ratio: 2.1;
+    object-fit: cover;
+    width: 100%;
+}
+main article a {
+    color: inherit;
+    text-decoration: none;
+}
+main article > a:last-child {
+    font-size: 0.8em;
+    margin: auto 1rem 1rem auto;
+}
+main article > a:last-child img {
+    border-radius: 50%;
+    margin-right: 5px;
+}
+a.tweet {
+    vertical-align: middle;
+    padding: 4px 12px;
+    background-color: #1d9bf0;
+    color: #fff;
+    border-radius: 9999px;
+    display: inline-flex;
+    margin-left: 15px;
+    text-decoration: none;
+    gap: 5px;
+    align-items: center;
+    font-size: 1.1em;
+}
