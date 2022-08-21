@@ -1,2 +1,1 @@
-# CSS-Articles
-CSS Articles written by Temani Afif (yes it's me!)
+<a href="https://css-articles.com/" target="_blank"><img src="https://github.com/Afif13/CSS-Articles/blob/e27231161ba98276eabd9fdc334389e006c5d5a5/css-articles.png" alt="CSS Articles by Temani Afif"></a>
