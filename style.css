@@ -114,6 +114,9 @@ nav ul label {
 nav li label img {
     border-radius: 50%;
 }
+nav li label[for=verpex] img {
+    border-radius: 0;
+}
 .hide {
     visibility: hidden;
     pointer-events: none;
@@ -180,6 +183,9 @@ main article > a:last-child {
 main article > a:last-child img {
     border-radius: 50%;
     margin-right: 5px;
+}
+main article > a:last-child img[alt=Verpex] {
+    border-radius: 0;
 }
 a.tweet {
     background-color: #08769b;
