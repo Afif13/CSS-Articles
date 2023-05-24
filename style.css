@@ -8,11 +8,6 @@ h2 {
     --typography-spacing-vertical: 2.25rem;
 }
 
-body {
-	min-height: 100vh;
-    display: grid;
-    grid-template-rows: auto auto auto 1fr auto;
-}
 h1 {
 	font-style: normal;
     font-weight: 700;
