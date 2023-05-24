@@ -9,7 +9,6 @@
 	<author>
 		<name>Temani Afif</name>
 	</author>
-	
 	<entry>
 		<title>How to Create a Custom Range Slider Using CSS</title>
 		<link href="https://www.sitepoint.com/css-custom-range-slider/"/>
@@ -22,7 +21,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>CSS Shapes: The Heart</title>
 		<link href="https://verpex.com/blog/website-tips/css-shapes-the-heart"/>
@@ -35,7 +33,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>CSS Shapes: Polygon &amp; Starburst</title>
 		<link href="https://verpex.com/blog/website-tips/css-shapes-polygon-starburst"/>
@@ -48,7 +45,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>A Text Reveal Animation using CSS</title>
 		<link href="https://verpex.com/blog/website-tips/a-text-reveal-animation-using-css"/>
@@ -61,7 +57,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>CSS Tip: learn CSS the easy way!</title>
 		<link href="https://dev.to/this-is-learning/css-tip-learn-css-the-easy-way-im4"/>
@@ -73,7 +68,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>How to build a CSS-only accordion</title>
 		<link href="https://verpex.com/blog/website-tips/how-to-build-a-css-only-accordion"/>
@@ -86,7 +80,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>How to create Breadcrumb Navigation with CSS</title>
 		<link href="https://verpex.com/blog/website-tips/how-to-create-breadcrumb-navigation-with-css"/>
@@ -99,7 +92,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>Different Ways to Get CSS Gradient Shadows</title>
 		<link href="https://css-tricks.com/different-ways-to-get-css-gradient-shadows/"/>
@@ -112,7 +104,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>A CSS-only responsive Stepper component</title>
 		<link href="https://verpex.com/blog/website-tips/a-css-only-responsive-stepper-component"/>
@@ -125,7 +116,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>A Fancy Hover Effect For Your Avatar</title>
 		<link href="https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/"/>
@@ -137,7 +127,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>How to make a zoom effect using CSS</title>
 		<link href="https://verpex.com/blog/website-tips/how-to-make-a-zoom-effect-using-css"/>
@@ -150,7 +139,6 @@
 			 ]]>
 		</content>
 	</entry>
-
 	<entry>
 		<title>Creating a Custom Cursor using CSS</title>
 		<link href="https://verpex.com/blog/website-tips/creating-a-custom-cursor-using-css"/>
@@ -163,5 +151,123 @@
 			 ]]>
 		</content>
 	</entry>
-
+	<entry>
+		<title>CSS Infinite 3D Sliders</title>
+		<link href="https://css-tricks.com/css-infinite-3d-sliders/"/>
+		<updated>2022-12-16T00:00:00Z</updated>
+		<id>https://css-tricks.com/css-infinite-3d-sliders/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/cube-slider.jpg" alt="CSS Infinite 3D Sliders" ></p>
+			 	<p>This time around, we’re diving into the third dimension. It’s going to look tough at first, but lots of the code we’re looking at is exactly what we used in the first two articles in this series, with some modifications.</p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>CSS Infinite Slider Flipping Through Polaroid Images</title>
+		<link href="https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/"/>
+		<updated>2022-12-09T00:00:00Z</updated>
+		<id>https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/polaroid-picture-stack.jpg" alt="CSS Infinite Slider Flipping Through Polaroid Images" ></p>
+			 	<p>In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid images.</p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to create a responsive sidebar menu using CSS</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-create-a-responsive-sidebar-menu-using-css"/>
+		<updated>2022-12-03T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-create-a-responsive-sidebar-menu-using-css</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/sidebar-menu_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to create a responsive sidebar menu using CSS" ></p>
+			 	<p>In this article, we are going to build a responsive sidebar menu. I will be reusing the same code structure as the previous article so it’s highly recommended to read it before this one to fully understand all the tricks.</p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>CSS Infinite and Circular Rotating Image Slider</title>
+		<link href="https://css-tricks.com/css-only-infinite-and-circular-image-slider/"/>
+		<updated>2022-12-02T00:00:00Z</updated>
+		<id>https://css-tricks.com/css-only-infinite-and-circular-image-slider/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/circular-slider-carousel.jpg" alt="CSS Infinite and Circular Rotating Image Slider" ></p>
+			 	<p>Through a little series of articles, we are going to explore some fancy and uncommon CSS-only sliders. If you are of tired seeing the same ol’ classic sliders, then you are in the right place!</p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Making Static Noise From a Weird CSS Gradient Bug</title>
+		<link href="https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/"/>
+		<updated>2022-11-18T00:00:00Z</updated>
+		<id>https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/tv-static.jpg" alt="Making Static Noise From a Weird CSS Gradient Bug" ></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>CSS Grid and Custom Shapes, Part 3</title>
+		<link href="https://css-tricks.com/css-grid-and-custom-shapes-part-3/"/>
+		<updated>2022-11-11T00:00:00Z</updated>
+		<id>https://css-tricks.com/css-grid-and-custom-shapes-part-3/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/custom-grid.png" alt="CSS Grid and Custom Shapes, Part 3" ></p>
+			 	<p>After Part 1 and Part 2, I am back with a third article to explore more fancy shapes. Like the previous articles, we are going to combine CSS Grid with clipping and masking to create fancy layouts for image galleries.</p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Fancy Image Decorations: Outlines and Complex Animations</title>
+		<link href="https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/"/>
+		<updated>2022-10-28T00:00:00Z</updated>
+		<id>https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/image-decorations-4.jpg" alt="Fancy Image Decorations: Outlines and Complex Animations" ></p>
+			 	<p>We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the CSS outline property. </p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Fancy Image Decorations: Masks and Advanced Hover Effects</title>
+		<link href="https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/"/>
+		<updated>2022-10-21T00:00:00Z</updated>
+		<id>https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/image-decorations-2.jpg" alt="Fancy Image Decorations: Masks and Advanced Hover Effects" ></p>
+			 	<p>Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients to create awesome visual effects. </p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Fancy Image Decorations: Single Element Magic</title>
+		<link href="https://css-tricks.com/fancy-image-decorations-single-element-magic/"/>
+		<updated>2022-10-14T00:00:00Z</updated>
+		<id>https://css-tricks.com/fancy-image-decorations-single-element-magic/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/image-decorations.jpg" alt="Fancy Image Decorations: Single Element Magic" ></p>
+			 	<p>As the title says, we are going to decorate images! There’s a bunch of other articles out there that talk about this, but what we’re covering here is quite a bit different because it’s more of a challenge. The challenge? Decorate an image using only the <img> tag and nothing more.</p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to create an infinite image slider using CSS</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-create-an-infinite-image-slider-using-css"/>
+		<updated>2022-10-04T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-create-an-infinite-image-slider-using-css</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img src="https://css-articles.com/img/infinite-image-slider_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to create an infinite image slider using CSS" ></p>
+			 	<p>You must have seen those sliders of images that have an infinite loop animation. They are also called infinite carousels where all the images appear and disappear indefinitely. To create such sliders, most of the tricks rely on JavaScript or on duplicating the images. In this post, we will see how to do this without JavaScript and without duplicating any of the images.</p>
+			 ]]>
+		</content>
+	</entry>
 	</feed>
