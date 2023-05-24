@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
 	<title>CSS Articles by Temani Afif</title>
-	<subtitle>A Collection of CSS articles written by Temani Afif on CSS-Tricks, FreeCodeCamp, DEV, sitepoint and more!</subtitle>
+	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
 	<updated>2023-05-18T00:00:00Z</updated>
