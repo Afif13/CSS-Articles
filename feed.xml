@@ -450,26 +450,13 @@
 	<entry>
 		<title>How to style a progress bar using CSS</title>
 		<link href="https://verpex.com/blog/website-tips/how-to-style-a-progress-bar-using-css"/>
-		<updated>2022-08-07T00:00:00Z</updated>
+		<updated>2022-06-12T00:00:00Z</updated>
 		<id>https://verpex.com/blog/website-tips/how-to-style-a-progress-bar-using-css</id>
 		<content type="html">
 			 <![CDATA[
-			 	<p><img width="300" src="" alt="How to style a progress bar using CSS" ></p>
-			 	<p></p>
-			 	<p><a href="https://verpex.com/blog/website-tips/how-to-style-a-progress-bar-using-css" target="_blank">Read full article online</a></p>
-			 ]]>
-		</content>
-	</entry>
-	<entry>
-		<title>How to create a CSS-only loader with one element</title>
-		<link href="https://verpex.com/blog/website-tips/how-to-create-a-css-only-loader-with-one-element"/>
-		<updated>2022-06-12T00:00:00Z</updated>
-		<id>https://verpex.com/blog/website-tips/how-to-create-a-css-only-loader-with-one-element</id>
-		<content type="html">
-			 <![CDATA[
-			 	<p><img width="300" src="https://css-articles.com/img/progress-element_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to create a CSS-only loader with one element" ></p>
+			 	<p><img width="300" src="https://css-articles.com/img/progress-element_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to style a progress bar using CSS" ></p>
 			 	<p>HTML offers a native element to show progression which is progress. In this post, we will learn a few CSS tricks to style such an element. We will also see how to make it look the same across browsers because the native element will, by default, render differently based on the browser.</p>
-			 	<p><a href="" target="_blank">Read full article online</a></p>
+			 	<p><a href="https://verpex.com/blog/website-tips/how-to-style-a-progress-bar-using-css" target="_blank">Read full article online</a></p>
 			 ]]>
 		</content>
 	</entry>
