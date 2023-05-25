@@ -383,4 +383,107 @@
 			 ]]>
 		</content>
 	</entry>
+	<entry>
+		<title>Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers</title>
+		<link href="https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/"/>
+		<updated>2022-08-01T00:00:00Z</updated>
+		<id>https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/s_F4C924AEFDB642C9861B01422787157264225531682D164A8C42B48A83B84E89_1656674978920_image.png" alt="Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers" ></p>
+			 	<p><a href="https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to create background pattern using CSS &amp; conic-gradient</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-create-background-pattern-using-css-conic-gradient"/>
+		<updated>2022-07-03T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-create-background-pattern-using-css-conic-gradient</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/pattern-with-conic-gradient_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to create background pattern using CSS & conic-gradient" ></p>
+			 	<p>Having a good background pattern can make a difference in your website design. Thanks to CSS gradients, we can create fancy and cool patterns using a few lines of code. In this post, we will study the conic-gradient and use it to create different CSS patterns.</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/how-to-create-background-pattern-using-css-conic-gradient" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Single Element Loaders: Going 3D!</title>
+		<link href="https://css-tricks.com/single-element-loaders-going-3d/"/>
+		<updated>2022-07-01T00:00:00Z</updated>
+		<id>https://css-tricks.com/single-element-loaders-going-3d/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/cube-loader.png" alt="Single Element Loaders: Going 3D!" ></p>
+			 	<p>For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube.</p>
+			 	<p><a href="https://css-tricks.com/single-element-loaders-going-3d/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Single Element Loaders: The Bars</title>
+		<link href="https://css-tricks.com/single-element-loaders-the-bars/"/>
+		<updated>2022-06-24T00:00:00Z</updated>
+		<id>https://css-tricks.com/single-element-loaders-the-bars/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/loaders-bars.png" alt="Single Element Loaders: The Bars" ></p>
+			 	<p>We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others by making it with only one element and with flexible CSS that makes it easy to create variations.</p>
+			 	<p><a href="https://css-tricks.com/single-element-loaders-the-bars/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Single Element Loaders: The Dots</title>
+		<link href="https://css-tricks.com/single-element-loaders-the-dots/"/>
+		<updated>2022-06-17T00:00:00Z</updated>
+		<id>https://css-tricks.com/single-element-loaders-the-dots/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/dots-loader.jpg" alt="Single Element Loaders: The Dots" ></p>
+			 	<p>We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, let’s look at another one you’re likely well aware of: the dots.</p>
+			 	<p><a href="https://css-tricks.com/single-element-loaders-the-dots/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to style a progress bar using CSS</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-style-a-progress-bar-using-css"/>
+		<updated>2022-08-07T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-style-a-progress-bar-using-css</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="" alt="How to style a progress bar using CSS" ></p>
+			 	<p></p>
+			 	<p><a href="https://verpex.com/blog/website-tips/how-to-style-a-progress-bar-using-css" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to create a CSS-only loader with one element</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-create-a-css-only-loader-with-one-element"/>
+		<updated>2022-06-12T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-create-a-css-only-loader-with-one-element</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/progress-element_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to create a CSS-only loader with one element" ></p>
+			 	<p>HTML offers a native element to show progression which is progress. In this post, we will learn a few CSS tricks to style such an element. We will also see how to make it look the same across browsers because the native element will, by default, render differently based on the browser.</p>
+			 	<p><a href="" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Single Element Loaders: The Spinner</title>
+		<link href="https://css-tricks.com/single-element-loaders-the-spinner/"/>
+		<updated>2022-06-10T00:00:00Z</updated>
+		<id>https://css-tricks.com/single-element-loaders-the-spinner/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/loaders-spinners.jpg" alt="Single Element Loaders: The Spinner" ></p>
+			 	<p>Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them. In this article, though, we will see how to make a single element loader writing as little code as possible.</p>
+			 	<p><a href="https://css-tricks.com/single-element-loaders-the-spinner/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	</feed>
