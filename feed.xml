@@ -292,4 +292,95 @@
 			 ]]>
 		</content>
 	</entry>
+	<entry>
+		<title>How to Create Wavy Shapes &amp; Patterns in CSS</title>
+		<link href="https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/"/>
+		<updated>2022-09-26T00:00:00Z</updated>
+		<id>https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/waves-gradient.png" alt="How to Create Wavy Shapes & Patterns in CSS" ></p>
+			 	<p>The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before we even get into wavy patterns, which are more difficult.</p>
+			 	<p><a href="https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How I Made a Pure CSS Puzzle Game</title>
+		<link href="https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/"/>
+		<updated>2022-09-09T00:00:00Z</updated>
+		<id>https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/puzzle-article.png" alt="How I Made a Pure CSS Puzzle Game" ></p>
+			 	<p>I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it!</p>
+			 	<p><a href="https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to create a Tooltip/Speech Bubble using CSS</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-create-a-tooltip-speech-bubble-using-css"/>
+		<updated>2022-08-28T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-create-a-tooltip-speech-bubble-using-css</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/CSS-Tooltip-Speech-bubble_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to create a Tooltip/Speech Bubble using CSS" ></p>
+			 	<p>In this article, we will study two common web components: Tooltip and Speech Bubble. Both have different names but share the same design idea. We always have that small arrow/tail linked to a rectangular element with or without rounded corners.</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/how-to-create-a-tooltip-speech-bubble-using-css" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>CSS Grid and Custom Shapes, Part 2</title>
+		<link href="https://css-tricks.com/css-grid-and-custom-shapes-part-2/"/>
+		<updated>2022-08-22T00:00:00Z</updated>
+		<id>https://css-tricks.com/css-grid-and-custom-shapes-part-2/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/zig-zag-panel.png" alt="CSS Grid and Custom Shapes, Part 2" ></p>
+			 	<p>Ready for the second round? We are still working with CSS Grid, clip-path, and mask, but by the end of this article, we’ll end up with different ways to arrange images on the grid, including some rad hover effects that make for an authentic, interactive experience to view pictures.</p>
+			 	<p><a href="https://css-tricks.com/css-grid-and-custom-shapes-part-2/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>CSS Grid and Custom Shapes, Part 1</title>
+		<link href="https://css-tricks.com/css-grid-and-custom-shapes-part-1/"/>
+		<updated>2022-08-15T00:00:00Z</updated>
+		<id>https://css-tricks.com/css-grid-and-custom-shapes-part-1/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/FD3186CB-2199-4F34-8B68-D013284C35FC.jpeg" alt="CSS Grid and Custom Shapes, Part 1" ></p>
+			 	<p>In a previous article, I looked at CSS Grid’s ability to create complex layouts using its auto-placement powers. I took that one step further in another article that added a zooming hover effect to images in a grid layout. This time, I want to dive into another type of grid, one that works with shapes.</p>
+			 	<p><a href="https://css-tricks.com/css-grid-and-custom-shapes-part-1/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Zooming Images in a Grid Layout</title>
+		<link href="https://css-tricks.com/zooming-images-in-a-grid-layout/"/>
+		<updated>2022-08-08T00:00:00Z</updated>
+		<id>https://css-tricks.com/zooming-images-in-a-grid-layout/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/grid-zoom-image.png" alt="Zooming Images in a Grid Layout" ></p>
+			 	<p>Creating a grid of images is easy, thanks to CSS Grid. But making the grid do fancy things after the images have been placed can be tricky to pull off. Say you want to add some fancy hover effect to the images where they grow and zoom beyond the rows and columns where they sit? We can do that!</p>
+			 	<p><a href="https://css-tricks.com/zooming-images-in-a-grid-layout/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to create a CSS-only loader with one element</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-create-a-css-only-loader-with-one-element"/>
+		<updated>2022-08-07T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-create-a-css-only-loader-with-one-element</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/single-element-CSS-loader_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to create a CSS-only loader with one element" ></p>
+			 	<p>A loader is an important component of a website. It can be used in many places where we need to show that something is in progress. Such a component needs to be as simple as possible and in this post, we will learn how to create different CSS-only loaders with an optimized code.</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/how-to-create-a-css-only-loader-with-one-element" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	</feed>
