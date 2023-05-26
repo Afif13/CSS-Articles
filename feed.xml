@@ -473,4 +473,159 @@
 			 ]]>
 		</content>
 	</entry>
+	<entry>
+		<title>Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D</title>
+		<link href="https://css-tricks.com/css-hover-effects-background-masks-3d/"/>
+		<updated>2022-05-26T00:00:00Z</updated>
+		<id>https://css-tricks.com/css-hover-effects-background-masks-3d/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/Cool-hover-effects.jpg" alt="Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D" ></p>
+			 	<p>In this article, we’re talking about background clipping, CSS masks, and even getting our feet wet with 3D perspectives. In other words, we are going to explore advanced techniques this time around and push the limits of what CSS can do with hover effects!</p>
+			 	<p><a href="https://css-tricks.com/css-hover-effects-background-masks-3d/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Cool Hover Effects That Use CSS Text Shadow</title>
+		<link href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/"/>
+		<updated>2022-05-13T00:00:00Z</updated>
+		<id>https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/text-shadow.png" alt="Cool Hover Effects That Use CSS Text Shadow" ></p>
+			 	<p>In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. </p>
+			 	<p><a href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to create a responsive hamburger menu using CSS</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-create-a-responsive-hamburger-menu-using-css"/>
+		<updated>2022-05-12T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-create-a-responsive-hamburger-menu-using-css</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/header-responsive-menu_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to create a responsive hamburger menu using CSS" ></p>
+			 	<p>The hamburger menu is a must when dealing with responsive design. Having the ability to show/hide the menu on small screens is essential to keep the navigation on the website easy. In this post, we will build a CSS-only responsive menu with a minimalist code.</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/how-to-create-a-responsive-hamburger-menu-using-css" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Cool Hover Effects That Use Background Properties</title>
+		<link href="https://css-tricks.com/cool-hover-effects-using-background-properties/"/>
+		<updated>2022-04-27T00:00:00Z</updated>
+		<id>https://css-tricks.com/cool-hover-effects-using-background-properties/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/button-hover.png" alt="Cool Hover Effects That Use Background Properties" ></p>
+			 	<p><a href="https://css-tricks.com/cool-hover-effects-using-background-properties/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Learn CSS radial-gradient by Building Background Patterns</title>
+		<link href="https://www.freecodecamp.org/news/css-radial-gradient/"/>
+		<updated>2022-04-19T00:00:00Z</updated>
+		<id>https://www.freecodecamp.org/news/css-radial-gradient/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/pattern-header.png" alt="Learn CSS radial-gradient by Building Background Patterns" ></p>
+			 	<p>If you are new to CSS gradients, you may have heard about something called radial-gradient(). If you have never used it before, you are in the right place to learn about it.</p>
+			 	<p><a href="https://www.freecodecamp.org/news/css-radial-gradient/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to style checkbox and radio buttons using CSS</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-style-checkbox-and-radio-buttons-using-css"/>
+		<updated>2022-04-17T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-style-checkbox-and-radio-buttons-using-css</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/radio-checkbox_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to style checkbox and radio buttons using CSS" ></p>
+			 	<p>In this post, we will study CSS techniques that allow us to update the style of such elements without extra HTML code. Yes, we are going to give a fresh look to our <input> elements using only CSS!</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/how-to-style-checkbox-and-radio-buttons-using-css" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>CSS effects on images</title>
+		<link href="https://verpex.com/blog/website-tips/css-tricks-to-make-your-image-look-stunning"/>
+		<updated>2022-03-30T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/css-tricks-to-make-your-image-look-stunning</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/CSS-Effects_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="CSS effects on images" ></p>
+			 	<p>A lot of tricks exist to style images but in this post, we will see how to style them without a ton of code, using CSS effects. We will consider only the <img> element and a few lines of CSS code. No extra elements and No pseudo element!</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/css-tricks-to-make-your-image-look-stunning" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Tricks to Cut Corners Using CSS Mask and Clip-Path Properties</title>
+		<link href="https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/"/>
+		<updated>2022-03-30T00:00:00Z</updated>
+		<id>https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/cutting-corners-1.jpg" alt="Tricks to Cut Corners Using CSS Mask and Clip-Path Properties" ></p>
+			 	<p>We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. In this article, we will consider modern techniques to create unique corner shapes while trying to work from reusable code that allows us to produce different results by adjusting variables.</p>
+			 	<p><a href="https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to Create a Section Divider Using CSS</title>
+		<link href="https://www.freecodecamp.org/news/section-divider-using-css/"/>
+		<updated>2022-02-25T00:00:00Z</updated>
+		<id>https://www.freecodecamp.org/news/section-divider-using-css/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/section-divider.png" alt="How to Create a Section Divider Using CSS" ></p>
+			 	<p>We will explore different section dividers made using only CSS and some optimized code that's easy to manipulate.</p>
+			 	<p><a href="https://www.freecodecamp.org/news/section-divider-using-css/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to Create a CSS-Only Ribbon for Your Website</title>
+		<link href="https://www.freecodecamp.org/news/make-a-css-only-ribbon/"/>
+		<updated>2022-02-08T00:00:00Z</updated>
+		<id>https://www.freecodecamp.org/news/make-a-css-only-ribbon/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/final-header-ribbon.png" alt="How to Create a CSS-Only Ribbon for Your Website" ></p>
+			 	<p>In this post, I will show you how to create two types of ribbons with some simple CSS code where you don't need to bother yourself with tweaking a lot of values</p>
+			 	<p><a href="https://www.freecodecamp.org/news/make-a-css-only-ribbon/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Fancy CSS Borders Using Masks (Zig-Zag, Wavy, and More)</title>
+		<link href="https://css-tricks.com/css-borders-using-masks/"/>
+		<updated>2022-01-26T00:00:00Z</updated>
+		<id>https://css-tricks.com/css-borders-using-masks/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/fancy-borders.png" alt="Fancy CSS Borders Using Masks (Zig-Zag, Wavy, and More)" ></p>
+			 	<p>Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, or waves.</p>
+			 	<p><a href="https://css-tricks.com/css-borders-using-masks/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to Create a CSS-Only Loader Using One Element</title>
+		<link href="https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/"/>
+		<updated>2022-01-14T00:00:00Z</updated>
+		<id>https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/header-loader.png" alt="How to Create a CSS-Only Loader Using One Element" ></p>
+			 	<p>n this post, we will see how to build two types of loaders with only one element and a few lines of CSS code. Not only this but we will make them customizable so you can easily create different variations from the same code</p>
+			 	<p><a href="https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	</feed>
