@@ -545,7 +545,7 @@
 		<content type="html">
 			 <![CDATA[
 			 	<p><img width="300" src="https://css-articles.com/img/radio-checkbox_3773ef1cca7ea19b34fccd0cd4766edd.jpg" alt="How to style checkbox and radio buttons using CSS" ></p>
-			 	<p>In this post, we will study CSS techniques that allow us to update the style of such elements without extra HTML code. Yes, we are going to give a fresh look to our <input> elements using only CSS!</p>
+			 	<p>In this post, we will study CSS techniques that allow us to update the style of such elements without extra HTML code. Yes, we are going to give a fresh look to our input elements using only CSS!</p>
 			 	<p><a href="https://verpex.com/blog/website-tips/how-to-style-checkbox-and-radio-buttons-using-css" target="_blank">Read full article online</a></p>
 			 ]]>
 		</content>
@@ -623,9 +623,138 @@
 		<content type="html">
 			 <![CDATA[
 			 	<p><img width="300" src="https://css-articles.com/img/header-loader.png" alt="How to Create a CSS-Only Loader Using One Element" ></p>
-			 	<p>n this post, we will see how to build two types of loaders with only one element and a few lines of CSS code. Not only this but we will make them customizable so you can easily create different variations from the same code</p>
+			 	<p>In this post, we will see how to build two types of loaders with only one element and a few lines of CSS code. Not only this but we will make them customizable so you can easily create different variations from the same code</p>
 			 	<p><a href="https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/" target="_blank">Read full article online</a></p>
 			 ]]>
 		</content>
 	</entry>
-	</feed>
+	<entry>
+		<title>How to Create a Pie Chart Using Only CSS</title>
+		<link href="https://www.freecodecamp.org/news/css-only-pie-chart/"/>
+		<updated>2022-01-06T00:00:00Z</updated>
+		<id>https://www.freecodecamp.org/news/css-only-pie-chart/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/header-2-3.png" alt="How to Create a Pie Chart Using Only CSS" ></p>
+			 	<p>In this post, I will show you how to create a pie chart using CSS and only one element.</p>
+			 	<p><a href="https://www.freecodecamp.org/news/css-only-pie-chart/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to Make an Animated Back to Top Button Using Only CSS</title>
+		<link href="https://www.freecodecamp.org/news/css-only-back-to-top-button/"/>
+		<updated>2022-01-03T00:00:00Z</updated>
+		<id>https://www.freecodecamp.org/news/css-only-back-to-top-button/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/header-2.png" alt="How to Make an Animated Back to Top Button Using Only CSS" ></p>
+			 	<p>Most websites rely on JavaScript to toggle the visibility of the button based on the amount of scroll. In this post, I will show you how to create such an effect using only CSS.</p>
+			 	<p><a href="https://www.freecodecamp.org/news/css-only-back-to-top-button/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Responsive Layouts, Fewer Media Queries</title>
+		<link href="https://css-tricks.com/responsive-layouts-fewer-media-queries/"/>
+		<updated>2021-11-22T00:00:00Z</updated>
+		<id>https://css-tricks.com/responsive-layouts-fewer-media-queries/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/diet-css.jpg" alt="Responsive Layouts, Fewer Media Queries" ></p>
+			 	<p>Since the introduction of media queries (literally decades ago), CSS has evolved to the points that there are a lot of tricks that can help us drastically reduce the usage of media queries we use. In some cases, I will show you how to replace multiple media queries with only one CSS declaration. These approaches can result in less code, be easier to maintain, and be more tied to the content at hand.</p>
+			 	<p><a href="https://css-tricks.com/responsive-layouts-fewer-media-queries/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Exploring the CSS Paint API: Rounding Shapes</title>
+		<link href="https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/"/>
+		<updated>2021-10-22T00:00:00Z</updated>
+		<id>https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/header-rounding-shapes.png" alt="Exploring the CSS Paint API: Rounding Shapes" ></p>
+			 	<p>Adding borders to complex shapes is a pain, but rounding the corner of complex shapes is a nightmare! Luckily, the CSS Paint API is here to the rescue! That’s what we’re going to look at as part of this “Exploring the CSS Paint API” series.</p>
+			 	<p><a href="https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Exploring the CSS Paint API: Polygon Border</title>
+		<link href="https://css-tricks.com/exploring-the-css-paint-api-polygon-border/"/>
+		<updated>2021-09-20T00:00:00Z</updated>
+		<id>https://css-tricks.com/exploring-the-css-paint-api-polygon-border/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/header-polygon-border.png" alt="Exploring the CSS Paint API: Polygon Border" ></p>
+			 	<p>Nowadays, creating complex shapes is an easy task using clip-path, but adding a border to the shapes is always a pain. There is no robust CSS solution and we always need to produce specific “hacky” code for each particular case. In this article, I will show you how to solve this problem using the CSS Paint API.</p>
+			 	<p><a href="https://css-tricks.com/exploring-the-css-paint-api-polygon-border/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Build your CSS loader with only one div — The Dots</title>
+		<link href="https://dev.to/afif/build-your-css-loader-with-only-one-div-the-dots-3882"/>
+		<updated>2021-09-15T00:00:00Z</updated>
+		<id>https://dev.to/afif/build-your-css-loader-with-only-one-div-the-dots-3882</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/2vhnxjmn7qgmeecr23xp.gif" alt="Build your CSS loader with only one div — The Dots" ></p>
+			 	<p>Yes, another post about CSS loaders but this time you will build the loader! In this article, I will share with you a few tricks I used to build some of my loaders.</p>
+			 	<p><a href="https://dev.to/afif/build-your-css-loader-with-only-one-div-the-dots-3882" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>A Multi-line CSS only Typewriter effect</title>
+		<link href="https://dev.to/afif/a-multi-line-css-only-typewriter-effect-3op3"/>
+		<updated>2021-09-03T00:00:00Z</updated>
+		<id>https://dev.to/afif/a-multi-line-css-only-typewriter-effect-3op3</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/r9t5cstaou0yjbh1gffj.gif" alt="A Multi-line CSS only Typewriter effect" ></p>
+			 	<p><a href="https://dev.to/afif/a-multi-line-css-only-typewriter-effect-3op3" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Exploring the CSS Paint API: Blob Animation</title>
+		<link href="https://css-tricks.com/exploring-the-css-paint-api-blob-animation/"/>
+		<updated>2021-08-30T00:00:00Z</updated>
+		<id>https://css-tricks.com/exploring-the-css-paint-api-blob-animation/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/blob-featured-image.png" alt="Exploring the CSS Paint API: Blob Animation" ></p>
+			 	<p>After the fragmentation effect, I am going to tackle another interesting animation: the blob! We all agree that such effect is hard to achieve with CSS, so we generally reach for SVG to make those gooey shapes. But now that the powerful Paint API is available, using CSS is not only possible, but maybe even a preferable approach once browser support comes around.</p>
+			 	<p><a href="https://css-tricks.com/exploring-the-css-paint-api-blob-animation/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>A scalable CSS only Typewriter Effect</title>
+		<link href="https://dev.to/afif/a-scalable-css-only-typewriter-effect-2opn"/>
+		<updated>2021-08-28T00:00:00Z</updated>
+		<id>https://dev.to/afif/a-scalable-css-only-typewriter-effect-2opn</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/wrsbevdmtor63nsyff45.gif" alt="A scalable CSS only Typewriter Effect" ></p>
+			 	<p>You want a Typewriter effect for your text but you are lost within all the variations that use JS and the ones that use a complex CSS code. Search no more! Here is a simple typewriter effect with only a few lines of CSS where you don't need to deal with any complex code. It's scalable and works with any kind of text.</p>
+			 	<p><a href="https://dev.to/afif/a-scalable-css-only-typewriter-effect-2opn" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Exploring the CSS Paint API: Image Fragmentation Effect</title>
+		<link href="https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/"/>
+		<updated>2021-08-09T00:00:00Z</updated>
+		<id>https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/frag.png" alt="Exploring the CSS Paint API: Image Fragmentation Effect" ></p>
+			 	<p>In my previous article, I created a fragmentation effect using CSS mask and custom properties. It was a neat effect but it has one drawback: it uses a lot of CSS code (generated using Sass). This time I am going to redo the same effect but rely on the new Paint API.</p>
+			 	<p><a href="https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/" target="_blank">Read full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+</feed>
