@@ -770,4 +770,158 @@
 			 ]]>
 		</content>
 	</entry>
+	<entry>
+		<title>A CSS-only reaction component using emoji</title>
+		<link href="https://dev.to/afif/a-css-only-reaction-component-using-emoji-28i4"/>
+		<updated>2021-07-18T00:00:00Z</updated>
+		<id>https://dev.to/afif/a-css-only-reaction-component-using-emoji-28i4</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/dpm88x3os47ra4j0lgp2.gif" alt="A CSS-only reaction component using emoji" ></p>
+			 	<p>Like star rating, reaction components are something widely used in many websites so here I am with my own implementation: A CSS-only reaction component that works with emojis or any kind of custom icons.</p>
+			 	<p><a href="https://dev.to/afif/a-css-only-reaction-component-using-emoji-28i4" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Build Complex CSS Transitions using Custom Properties and cubic-bezier()</title>
+		<link href="https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/"/>
+		<updated>2021-07-14T00:00:00Z</updated>
+		<id>https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/complex-transition.png" alt="Build Complex CSS Transitions using Custom Properties and cubic-bezier()" ></p>
+			 	<p>I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I will show you how to create even more complex CSS transitions.</p>
+			 	<p><a href="https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries</title>
+		<link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
+		<updated>2021-06-03T00:00:00Z</updated>
+		<id>https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/featured-image.png" alt="Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries" ></p>
+			 	<p>I’m here to resurrect our old friend float to create the same sort of complex and responsive layout but with less complexity and without a single media query.</p>
+			 	<p><a href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Advanced CSS Animation Using cubic-bezier()</title>
+		<link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
+		<updated>2021-05-13T00:00:00Z</updated>
+		<id>https://css-tricks.com/advanced-css-animation-using-cubic-bezier/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/advanced-CSS-animations.png" alt="Advanced CSS Animation Using cubic-bezier()" ></p>
+			 	<p>There’s one especially neat timing function that gives us total control to create custom timing functions. That would be cubic-bezier() and in this post I will show you the power of it and how it can be used to create fancy animation without too much complexity.</p>
+			 	<p><a href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Float an Element to the Bottom Corner</title>
+		<link href="https://css-tricks.com/float-an-element-to-the-bottom-corner/"/>
+		<updated>2021-04-19T00:00:00Z</updated>
+		<id>https://css-tricks.com/float-an-element-to-the-bottom-corner/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/s8924302uxqd9dqhmqu0.png" alt="Float an Element to the Bottom Corner" ></p>
+			 	<p>Need to lay out an element to the right or the left, such that text wraps around it? That’s an easy task for the float property. But what about if you also want to push that element (let’s call it an image) to one of the bottom corners while we’re at it? Sounds a bit tricky, right? We probably need JavaScript? Nope, few lines of (tricky) CSS can do it! </p>
+			 	<p><a href="https://css-tricks.com/float-an-element-to-the-bottom-corner/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>What no one told you about CSS Variables</title>
+		<link href="https://dev.to/afif/what-no-one-told-you-about-css-variables-553o"/>
+		<updated>2021-04-08T00:00:00Z</updated>
+		<id>https://dev.to/afif/what-no-one-told-you-about-css-variables-553o</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/cczk1kuorhpqy38w4izq.png" alt="What no one told you about CSS Variables" ></p>
+			 	<p>CSS Variables are great but do you know everything about them? In this post, I will highlight a few quirks around CSS variables that no one talks about. After that, you won't look at them the same way anymore.</p>
+			 	<p><a href="https://dev.to/afif/what-no-one-told-you-about-css-variables-553o" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Image Fragmentation Effect With CSS Masks and Custom Properties</title>
+		<link href="https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/"/>
+		<updated>2021-03-23T00:00:00Z</updated>
+		<id>https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/frag.png" alt="Image Fragmentation Effect With CSS Masks and Custom Properties" ></p>
+			 	<p>I have a similar idea, but with a different approach. Instead of revealing the image, let’s start with it fully revealed, then let it disappear one tile at a time, as if it’s floating away in tiny fragments.</p>
+			 	<p><a href="https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>All you need to know about background-position</title>
+		<link href="https://dev.to/this-is-learning/all-you-need-to-know-about-background-position-3aac"/>
+		<updated>2021-03-13T00:00:00Z</updated>
+		<id>https://dev.to/this-is-learning/all-you-need-to-know-about-background-position-3aac</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/wsmkc98oiimxdiw20afs.png" alt="All you need to know about background-position" ></p>
+			 	<p><a href="https://dev.to/this-is-learning/all-you-need-to-know-about-background-position-3aac" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>How to correctly position rotated text using CSS</title>
+		<link href="https://dev.to/afif/how-to-correctly-position-rotated-text-using-css-1gjc"/>
+		<updated>2021-03-11T00:00:00Z</updated>
+		<id>https://dev.to/afif/how-to-correctly-position-rotated-text-using-css-1gjc</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/3x9n5237795z2jjx3lfo.png" alt="How to correctly position rotated text using CSS" ></p>
+			 	<p>It's always a hassle to correctly position a rotated text. Especially to position such text in the corner or the sides of another element.</p>
+			 	<p><a href="https://dev.to/afif/how-to-correctly-position-rotated-text-using-css-1gjc" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Responsive text based on image size</title>
+		<link href="https://dev.to/afif/responsive-text-based-on-image-size-36n9"/>
+		<updated>2021-03-08T00:00:00Z</updated>
+		<id>https://dev.to/afif/responsive-text-based-on-image-size-36n9</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/a2nx9whmmtfwjkjdksrb.png" alt="Responsive text based on image size" ></p>
+			 	<p>We all face such a requirement where we need to make a title below (or above) an image to not exceed the width of the image. In most of the cases, we need them to have the same width.</p>
+			 	<p><a href="https://dev.to/afif/responsive-text-based-on-image-size-36n9" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Never make your text container a flexbox container</title>
+		<link href="https://dev.to/afif/never-make-your-text-container-a-flexbox-container-m9p"/>
+		<updated>2021-03-03T00:00:00Z</updated>
+		<id>https://dev.to/afif/never-make-your-text-container-a-flexbox-container-m9p</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/1dgayachyp1z3m4yi50t.png" alt="Never make your text container a flexbox container" ></p>
+			 	<p>Flexbox is great. Unfortunately, many developers use it in the wrong way. To be more precise, they use it automatically everywhere even when it should not be used.</p>
+			 	<p><a href="https://dev.to/afif/never-make-your-text-container-a-flexbox-container-m9p" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Border with gradient and radius</title>
+		<link href="https://dev.to/afif/border-with-gradient-and-radius-387f"/>
+		<updated>2021-02-12T00:00:00Z</updated>
+		<id>https://dev.to/afif/border-with-gradient-and-radius-387f</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/k23fyeb50ymxf7gkbe7s.png" alt="Border with gradient and radius" ></p>
+			 	<p><a href="https://dev.to/afif/border-with-gradient-and-radius-387f" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 </feed>
