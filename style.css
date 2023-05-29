@@ -141,6 +141,9 @@ nav li label[for=verpex] img {
 #verpex:checked ~ nav [for=verpex] {
     background-color: var(--primary-focus);
 }
+#sitepoint:checked ~ nav [for=sitepoint] {
+    background-color: var(--primary-focus);
+}
 
 #freecodecamp:checked ~ main article:not([data-type=freecodecamp]){
     display: none;
