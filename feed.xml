@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2023-05-23T00:00:00Z</updated>
+	<updated>2023-06-11T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>Modern Layouts using CSS Grid</title>
+		<link href="https://verpex.com/blog/website-tips/modern-layouts-using-css-grid"/>
+		<updated>2023-06-10T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/modern-layouts-using-css-grid</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/modern-layouts.jpg" alt="https://verpex.com/blog/website-tips/modern-layouts-using-css-grid" ></p>
+			 	<p>In this article, we will use CSS Grid to build some common layouts. The goal is to combine modern CSS tricks to create such layouts with the smallest code possible. In the end, you will have a collection of CSS boilerplate that you can easily reuse in your projects.</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/modern-layouts-using-css-grid" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>I created 100+ unique CSS patterns | The best collection</title>
 		<link href="https://dev.to/afif/i-created-100-unique-css-patterns-the-best-collection-31cl"/>
