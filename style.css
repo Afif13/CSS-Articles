@@ -87,9 +87,18 @@ nav {
 }
 nav ul:first-child {
     margin: 0 auto 20px;
-    gap: 10px;
+    gap: 5px;
+}
+nav.container ul:before {
+    content: "Filter Articles: ";
+    font-weight: bold;
 }
 @media (max-width: 992px) {
+    nav.container ul:before {
+        content: "Filter Articles";
+        flex-basis: 100%;
+        text-align: center;
+    }
     nav ul:first-child {
         flex-wrap: wrap;
     }
@@ -110,13 +119,14 @@ nav li {
 }
 nav ul label {
     cursor: pointer;
-    padding: calc(var(--spacing) * .5);
+    padding: calc(var(--spacing) * .3) calc(var(--spacing) * .5);
     border-radius: 5px;
 }
 nav li label img {
     border-radius: 50%;
 }
-nav li label[for=verpex] img {
+nav li label[for=verpex] img,
+nav li label[for=smashingmagazine] img  {
     border-radius: 0;
 }
 .hide {
@@ -126,40 +136,25 @@ nav li label[for=verpex] img {
     z-index: -9999;
 }
 
-#all:checked ~ nav [for=all] {
-    background-color: var(--primary-focus);
-}
-#freecodecamp:checked ~ nav [for=freecodecamp] {
-    background-color: var(--primary-focus);
-}
-#css-tricks:checked ~ nav [for=css-tricks] {
-    background-color: var(--primary-focus);
-}
-#dev:checked ~ nav [for=dev] {
-    background-color: var(--primary-focus);
-}
-#verpex:checked ~ nav [for=verpex] {
-    background-color: var(--primary-focus);
-}
-#sitepoint:checked ~ nav [for=sitepoint] {
+#all:checked ~ nav [for=all],
+#freecodecamp:checked ~ nav [for=freecodecamp],
+#css-tricks:checked ~ nav [for=css-tricks],
+#dev:checked ~ nav [for=dev],
+#verpex:checked ~ nav [for=verpex],
+#sitepoint:checked ~ nav [for=sitepoint],
+#smashingmagazine:checked ~ nav [for=smashingmagazine] {
     background-color: var(--primary-focus);
 }
 
-#freecodecamp:checked ~ main article:not([data-type=freecodecamp]){
+#freecodecamp:checked ~ main article:not([data-type=freecodecamp]),
+#css-tricks:checked ~ main article:not([data-type=css-tricks]),
+#dev:checked ~ main article:not([data-type=dev]),
+#verpex:checked ~ main article:not([data-type=verpex]),
+#sitepoint:checked ~ main article:not([data-type=sitepoint]),
+#smashingmagazine:checked ~ main article:not([data-type=smashingmagazine]){
     display: none;
 }
-#css-tricks:checked ~ main article:not([data-type=css-tricks]){
-    display: none;
-}
-#dev:checked ~ main article:not([data-type=dev]){
-    display: none;
-}
-#verpex:checked ~ main article:not([data-type=verpex]){
-    display: none;
-}
-#sitepoint:checked ~ main article:not([data-type=sitepoint]){
-    display: none;
-}
+
 section.me {
     display: flex;
     gap: 1em;
