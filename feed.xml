@@ -10,6 +10,19 @@
 		<name>Temani Afif</name>
 	</author>
 	<entry>
+		<title>CSS Effects on Images II</title>
+		<link href="https://verpex.com/blog/website-tips/css-effects-on-images-ii"/>
+		<updated>2023-07-22T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/css-effects-on-images-ii</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/css-image-effect.jpg" alt="CSS effects on images II" ></p>
+			 	<p>CSS effects on images II</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/css-effects-on-images-ii" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
 		<title>Shines, Perspective, And Rotations: Fancy CSS 3D Effects For Images</title>
 		<link href="https://www.smashingmagazine.com/2023/07/shines-perspective-rotations-css-3d-effects-images/"/>
 		<updated>2023-07-07T00:00:00Z</updated>
