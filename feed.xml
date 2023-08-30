@@ -17,7 +17,7 @@
 		<content type="html">
 			 <![CDATA[
 			 	<p><img width="300" src="https://css-articles.com/img/css-loaders.webp" alt="CSS Loaders: 500+ single element loaders" ></p>
-			 	<p>css-loaders.com: The Biggest Collection of Loading Animations (more than 500 🤯)</p>
+			 	<p><a href="https://css-loaders.com">css-loaders.com</a>: The Biggest Collection of Loading Animations (more than 500 🤯)</p>
 			 	<p><a href="https://dev.to/afif/css-loaderscom-the-biggest-collection-of-loading-animations-more-than-500--23jg" target="_blank">Read the full article online</a></p>
 			 ]]>
 		</content>
@@ -29,7 +29,7 @@
 		<id>https://www.smashingmagazine.com/2023/07/define-array-colors-css</id>
 		<content type="html">
 			 <![CDATA[
-			 	<p><img width="300" src="https://css-articles.com/img/css-image-effect.jpg" alt="How To Define An Array Of Colors With CSS" ></p>
+			 	<p><img width="300" src="https://css-articles.com/img/define-array-colors-css.jpg" alt="How To Define An Array Of Colors With CSS" ></p>
 			 	<p>How To Define An Array Of Colors With CSS</p>
 			 	<p><a href="https://www.smashingmagazine.com/2023/07/define-array-colors-css" target="_blank">Read the full article online</a></p>
 			 ]]>
