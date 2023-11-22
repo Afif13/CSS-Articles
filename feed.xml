@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2023-11-15T00:00:00Z</updated>
+	<updated>2023-11-22T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>CSS Responsive Multi-Line Ribbon Shapes (Part 2)</title>
+		<link href="https://www.smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/"/>
+		<updated>2023-11-22T00:00:00Z</updated>
+		<id>https://www.smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/css-responsive-multi-line-ribbon-shapes-part1.jpg" alt="CSS Responsive Multi-Line Ribbon Shapes" ></p>
+			 	<p>CSS Responsive Multi-Line Ribbon Shapes (Part 2)</p>
+			 	<p><a href="https://www.smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>CSS Responsive Multi-Line Ribbon Shapes (Part 1)</title>
 		<link href="https://www.smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/"/>
