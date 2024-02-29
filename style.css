@@ -87,18 +87,9 @@ nav {
 }
 nav ul:first-child {
     margin: 0 auto 20px;
-    gap: 5px;
 }
-nav.container ul:before {
-    content: "Filter Articles: ";
-    font-weight: bold;
-}
+
 @media (max-width: 992px) {
-    nav.container ul:before {
-        content: "Filter Articles";
-        flex-basis: 100%;
-        text-align: center;
-    }
     nav ul:first-child {
         flex-wrap: wrap;
     }
@@ -142,7 +133,8 @@ nav li label[for=smashingmagazine] img  {
 #dev:checked ~ nav [for=dev],
 #verpex:checked ~ nav [for=verpex],
 #sitepoint:checked ~ nav [for=sitepoint],
-#smashingmagazine:checked ~ nav [for=smashingmagazine] {
+#smashingmagazine:checked ~ nav [for=smashingmagazine],
+#frontendmasters:checked ~ nav [for=frontendmasters] {
     background-color: var(--primary-focus);
 }
 
@@ -151,7 +143,8 @@ nav li label[for=smashingmagazine] img  {
 #dev:checked ~ main article:not([data-type=dev]),
 #verpex:checked ~ main article:not([data-type=verpex]),
 #sitepoint:checked ~ main article:not([data-type=sitepoint]),
-#smashingmagazine:checked ~ main article:not([data-type=smashingmagazine]){
+#smashingmagazine:checked ~ main article:not([data-type=smashingmagazine]),
+#frontendmasters:checked ~ main article:not([data-type=frontendmasters]){
     display: none;
 }
 
