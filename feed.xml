@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2024-02-29T00:00:00Z</updated>
+	<updated>2024-03-01T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>Modern CSS Tooltips And Speech Bubbles (Part 1)</title>
+		<link href="https://www.smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/"/>
+		<updated>2024-03-01T00:00:00Z</updated>
+		<id>https://www.smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/modern-css-tooltips-speech-bubbles.jpg" alt="Modern CSS Tooltips And Speech Bubbles (Part 1" ></p>
+			 	<p>Modern CSS Tooltips And Speech Bubbles (Part 1)</p>
+			 	<p><a href="https://www.smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>Creating Flower Shapes using CSS Mask and Trigonometric Functions</title>
 		<link href="https://frontendmasters.com/blog/creating-flower-shapes-using-css-mask-trigonometric-functions"/>
