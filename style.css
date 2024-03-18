@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 
 :root {
-	--font-size: 17px;
+	--pico-font-size: 17px;
 }
 h2 {
-    --font-size: 1.3rem;
-    --typography-spacing-vertical: 2.25rem;
+    --pico-font-size: 1.3rem;
+    --pico-typography-spacing-vertical: 2.25rem;
 }
 
 h1 {
@@ -45,8 +45,8 @@ h1 span:nth-child(2):before {
     position: absolute;
     top: 10px;
     height: 28px;
-    border-left: 1.5px solid var(--background-color);
-    border-top: 1.5px solid var(--background-color);
+    border-left: 1.5px solid var(--pico-background-color);
+    border-top: 1.5px solid var(--pico-background-color);
     width: 44px;
     left: 2px;
     border-top-left-radius: 41px 24px;
@@ -57,7 +57,7 @@ h1 span:nth-child(2):after {
     bottom: 0;
     left: 4.5px;
     height: 37px;
-    border-left: 1.5px solid var(--background-color);
+    border-left: 1.5px solid var(--pico-background-color);
     z-index: 5;
 }
 body header h1 + p {
@@ -80,10 +80,10 @@ main {
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(280px,1fr));
     grid-gap: 20px;
-    margin: 0 0 var(--block-spacing-vertical);
+    margin: 0 0 var(--pico-block-spacing-vertical);
 }
 nav {
-    padding: 0 var(--spacing);
+    padding: 0 var(--pico-spacing);
 }
 nav ul:first-child {
     margin: 0 auto 20px;
@@ -110,7 +110,7 @@ nav li {
 }
 nav ul label {
     cursor: pointer;
-    padding: calc(var(--spacing) * .3) calc(var(--spacing) * .5);
+    padding: calc(var(--pico-spacing) * .3) calc(var(--pico-spacing) * .5);
     border-radius: 5px;
 }
 nav li label img {
@@ -135,7 +135,7 @@ nav li label[for=smashingmagazine] img  {
 #sitepoint:checked ~ nav [for=sitepoint],
 #smashingmagazine:checked ~ nav [for=smashingmagazine],
 #frontendmasters:checked ~ nav [for=frontendmasters] {
-    background-color: var(--primary-focus);
+    background-color: var(--pico-primary-focus);
 }
 
 #freecodecamp:checked ~ main article:not([data-type=freecodecamp]),
@@ -147,7 +147,9 @@ nav li label[for=smashingmagazine] img  {
 #frontendmasters:checked ~ main article:not([data-type=frontendmasters]){
     display: none;
 }
-
+.container-fluid {
+    max-width: 1200px;
+}
 section.me {
     display: flex;
     gap: 1em;
@@ -160,7 +162,7 @@ section.me p {
 section.me img  {
   --s: 240px;   
   --b: 5px;     
-  --c: #c39f76; 
+  --c: var(--pico-primary); 
   --f: 1;       
   
   width: var(--s);
@@ -227,33 +229,4 @@ main article > a:last-child img {
 }
 main article > a:last-child img[alt=Verpex] {
     border-radius: 0;
-}
-a.tweet {
-    background-color: #08769b;
-    border-radius: 9999px;
-    display: grid;
-    place-content: center;
-    width: 52px;
-    height: 52px;
-    position: fixed;
-    left: 15px;
-    bottom: 80px;
-    box-shadow: rgb(0 0 0 / 40%) 0px 4px 8px;
-}
-#bmc-wbtn {
-    position: fixed;
-    left: 15px;
-    bottom: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 52px;
-    height: 52px;
-    background: rgb(8, 118, 155);
-    border-radius: 32px;
-    box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 8px;
-}
-#bmc-wbtn img {
-    height: 40px;
-    width: 40px;
 }
