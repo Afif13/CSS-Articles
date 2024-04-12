@@ -10,8 +10,34 @@
 		<name>Temani Afif</name>
 	</author>
 	<entry>
+		<title>Sliding 3D Image Frames In CSS</title>
+		<link href="https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/"/>
+		<updated>2024-04-12T00:00:00Z</updated>
+		<id>https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/sliding-3d-image-frames-css.jpg" alt="Sliding 3D Image Frames In CSS" ></p>
+			 	<p>Sliding 3D Image Frames In CSS</p>
+			 	<p><a href="https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>CSS Tricks To Master The clip-path Property</title>
+		<link href="https://verpex.com/blog/website-tips/css-tricks-to-master-the-clip-path-property"/>
+		<updated>2024-04-11T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/css-tricks-to-master-the-clip-path-property</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/master-clip-path.jpg" alt="CSS Tricks To Master The clip-path Property" ></p>
+			 	<p>CSS Tricks To Master The clip-path Property</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/css-tricks-to-master-the-clip-path-property" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
 		<title>Creating Wavy Circles with Fancy Animations in CSS</title>
-		<link href="hhttps://frontendmasters.com/blog/creating-wavy-circles-with-fancy-animations/"/>
+		<link href="https://frontendmasters.com/blog/creating-wavy-circles-with-fancy-animations/"/>
 		<updated>2024-03-15T00:00:00Z</updated>
 		<id>https://frontendmasters.com/blog/creating-wavy-circles-with-fancy-animations/</id>
 		<content type="html">
