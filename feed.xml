@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2024-03-15T00:00:00Z</updated>
+	<updated>2024-04-22T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>css-shape.com: The Ultimate Collection of CSS-only Shapes</title>
+		<link href="https://dev.to/afif/css-shapecom-the-ultimate-collection-of-css-only-shapes-52p5"/>
+		<updated>2024-04-22T00:00:00Z</updated>
+		<id>https://dev.to/afif/css-shapecom-the-ultimate-collection-of-css-only-shapes-52p5</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/css-shapes.jpg" alt="CSS Shapes" ></p>
+			 	<p>css-shape.com: The Ultimate Collection of CSS-only Shapes</p>
+			 	<p><a href="https://dev.to/afif/css-shapecom-the-ultimate-collection-of-css-only-shapes-52p5" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>Sliding 3D Image Frames In CSS</title>
 		<link href="https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/"/>
