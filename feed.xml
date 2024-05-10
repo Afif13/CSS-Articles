@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2024-04-22T00:00:00Z</updated>
+	<updated>2024-05-10T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>The Modern Guide For Making CSS Shapes</title>
+		<link href="https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/"/>
+		<updated>2024-05-10T00:00:00Z</updated>
+		<id>https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/modern-guide-making-css-shapes.jpg" alt="The Modern Guide For Making CSS Shapes" ></p>
+			 	<p>The Modern Guide For Making CSS Shapes</p>
+			 	<p><a href="https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>css-shape.com: The Ultimate Collection of CSS-only Shapes</title>
 		<link href="https://dev.to/afif/css-shapecom-the-ultimate-collection-of-css-only-shapes-52p5"/>
