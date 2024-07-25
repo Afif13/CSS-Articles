@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2024-07-08T00:00:00Z</updated>
+	<updated>2024-07-25T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>How to Get the Width/Height of Any Element in Only CSS</title>
+		<link href="https://frontendmasters.com/blog/how-to-get-the-width-height-of-any-element-in-only-css/"/>
+		<updated>2024-07-25T00:00:00Z</updated>
+		<id>https://frontendmasters.com/blog/how-to-get-the-width-height-of-any-element-in-only-css/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/width-height.webp" alt="How to Get the Width/Height of Any Element in Only CSS" ></p>
+			 	<p>How to Get the Width/Height of Any Element in Only CSS</p>
+			 	<p><a href="https://frontendmasters.com/blog/how-to-get-the-width-height-of-any-element-in-only-css/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>How Keyboard Navigation Works in a CSS Game</title>
 		<link href="https://frontendmasters.com/blog/how-keyboard-navigation-works-in-a-css-game/"/>
