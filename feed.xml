@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2024-07-25T00:00:00Z</updated>
+	<updated>2024-08-21T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>Custom Range Slider Using Anchor Positioning &amp; Scroll-Driven Animations</title>
+		<link href="https://frontendmasters.com/blog/custom-range-slider-using-anchor-positioning-scroll-driven-animations/"/>
+		<updated>2024-08-21T00:00:00Z</updated>
+		<id>https://frontendmasters.com/blog/custom-range-slider-using-anchor-positioning-scroll-driven-animations/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/wobble-thumb.webp" alt="Custom Range Slider Using Anchor Positioning & Scroll-Driven Animations" ></p>
+			 	<p>Custom Range Slider Using Anchor Positioning & Scroll-Driven Animations</p>
+			 	<p><a href="https://frontendmasters.com/blog/custom-range-slider-using-anchor-positioning-scroll-driven-animations/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>How to Get the Width/Height of Any Element in Only CSS</title>
 		<link href="https://frontendmasters.com/blog/how-to-get-the-width-height-of-any-element-in-only-css/"/>
