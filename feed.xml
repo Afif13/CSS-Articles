@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2024-08-21T00:00:00Z</updated>
+	<updated>2024-09-25T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>How to create Shapes with Inner Curves using CSS Mask</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-create-shapes-with-inner-curves-using-css-mask/"/>
+		<updated>2024-09-25T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-create-shapes-with-inner-curves-using-css-mask</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/innner-curves.jpg" alt="How to create Shapes with Inner Curves using CSS Mask" ></p>
+			 	<p>How to create Shapes with Inner Curves using CSS Mask</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/how-to-create-shapes-with-inner-curves-using-css-mask" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>Custom Range Slider Using Anchor Positioning &amp; Scroll-Driven Animations</title>
 		<link href="https://frontendmasters.com/blog/custom-range-slider-using-anchor-positioning-scroll-driven-animations/"/>
