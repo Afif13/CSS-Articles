@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2024-11-13T00:00:00Z</updated>
+	<updated>2024-11-20T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>How to Create Zig-Zag CSS Loaders Using One Element</title>
+		<link href="https://www.freecodecamp.org/news/zig-zag-css-loaders/"/>
+		<updated>2024-11-20T00:00:00Z</updated>
+		<id>https://www.freecodecamp.org/news/zig-zag-css-loaders/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/zig-zag.jpeg" alt="How to Create Zig-Zag CSS Loaders Using One Element" ></p>
+			 	<p>How to Create Zig-Zag CSS Loaders Using One Element</p>
+			 	<p><a href="https://www.freecodecamp.org/news/zig-zag-css-loaders/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>Custom Progress Element Using Anchor Positioning &amp; Scroll-Driven Animations</title>
 		<link href="https://frontendmasters.com/blog/custom-progress-element-using-anchor-positioning-scroll-driven-animations/"/>
