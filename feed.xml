@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2024-11-20T00:00:00Z</updated>
+	<updated>2024-12-19T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>How to Create a Zig-Zag Box Using CSS</title>
+		<link href="https://verpex.com/blog/website-tips/how-to-create-a-zig-zag-box-using-css"/>
+		<updated>2024-12-18T00:00:00Z</updated>
+		<id>https://verpex.com/blog/website-tips/how-to-create-a-zig-zag-box-using-css</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/zig-zag-boxes.jpg" alt="How to Create a Zig-Zag Box Using CSS" ></p>
+			 	<p>How to Create a Zig-Zag Box Using CSS</p>
+			 	<p><a href="https://verpex.com/blog/website-tips/how-to-create-a-zig-zag-box-using-css" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>How to Create Zig-Zag CSS Loaders Using One Element</title>
 		<link href="https://www.freecodecamp.org/news/zig-zag-css-loaders/"/>
