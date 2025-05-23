@@ -4,13 +4,26 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2025-05-21T00:00:00Z</updated>
+	<updated>2025-05-23T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
 	<entry>
-		<title>Creating Flower Shapes using clip-path: shape()</title>
+		<title>Better CSS Shapes Using shape() — Part 1: Lines and Arcs</title>
+		<link href="https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/"/>
+		<updated>2025-05-23T00:00:00Z</updated>
+		<id>https://frontendmasters.com/blog/creating-blob-shapes-using-clip-path-shape/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/shapes.jpg" alt="Better CSS Shapes Using shape() — Part 1: Lines and Arcs" ></p>
+			 	<p>Better CSS Shapes Using shape() — Part 1: Lines and Arcs</p>
+			 	<p><a href="https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
+	<entry>
+		<title>Creating Blob Shapes using clip-path: shape()</title>
 		<link href="https://frontendmasters.com/blog/creating-blob-shapes-using-clip-path-shape/"/>
 		<updated>2025-05-19T00:00:00Z</updated>
 		<id>https://frontendmasters.com/blog/creating-blob-shapes-using-clip-path-shape/</id>
