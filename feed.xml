@@ -4,11 +4,24 @@
 	<subtitle>A wide range of articles covering all CSS Topics. From the basic to the advanced ones, all the CSS secrets are here.</subtitle>
 	<link href="https://css-articles.com/feed.xml" rel="self"/>
 	<link href="https://css-articles.com/"/>
-	<updated>2025-06-19T00:00:00Z</updated>
+	<updated>2025-07-07T00:00:00Z</updated>
 	<id>https://css-articles.com/</id>
 	<author>
 		<name>Temani Afif</name>
 	</author>
+	<entry>
+		<title>Better CSS Shapes Using shape() — Part 4: Close and Move</title>
+		<link href="https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/"/>
+		<updated>2025-07-07T00:00:00Z</updated>
+		<id>https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/</id>
+		<content type="html">
+			 <![CDATA[
+			 	<p><img width="300" src="https://css-articles.com/img/move-close.webp" alt="Better CSS Shapes Using shape() — Part 4: Close and Move" ></p>
+			 	<p>Better CSS Shapes Using shape() — Part 4: Close and Move</p>
+			 	<p><a href="https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/" target="_blank">Read the full article online</a></p>
+			 ]]>
+		</content>
+	</entry>
 	<entry>
 		<title>Drawing CSS Shapes using corner-shape</title>
 		<link href="https://frontendmasters.com/blog/drawing-css-shapes-using-corner-shape/"/>
